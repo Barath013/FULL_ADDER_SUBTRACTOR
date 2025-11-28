@@ -66,16 +66,24 @@ FUL SUBTRACTOR
 <img width="702" height="303" alt="image" src="https://github.com/user-attachments/assets/c77ebd91-db00-4887-81e0-efd79913bdde" />
 
 **RTL Schematic**
+
 FULL ADDER
+
 <img width="1920" height="1080" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/a8e88bee-1527-4a8a-999f-be96a5b57a1b" />
+
 FUL SUBSTRACTOR
+
 <img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/0684f33d-e298-404d-a6e5-06b8d8e28a1d" />
 
 
 **Output Timing Waveform**
+
 FULL ADDER
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1c5c487-9388-4250-b521-f3d35cb4a7f8" />
+
 FULL SUBSTRACTOR
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e00e2162-532e-4801-a29c-01ab80ecbd13" />
 
 
