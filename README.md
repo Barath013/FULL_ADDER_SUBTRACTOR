@@ -50,13 +50,19 @@ Borrow out = A'Bin + A'B + BBin
 5.For different input combinations generate the timing diagram.
 
 designed by :BARATH V
+
 reg no:25008324
 
 
 **Program:**
+
+
 FULL ADDER
+
 <img width="606" height="321" alt="image" src="https://github.com/user-attachments/assets/7303dd23-866c-4a8d-afd3-042152d98256" />
+
 FUL SUBTRACTOR
+
 <img width="702" height="303" alt="image" src="https://github.com/user-attachments/assets/c77ebd91-db00-4887-81e0-efd79913bdde" />
 
 **RTL Schematic**
